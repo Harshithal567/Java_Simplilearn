@@ -1,0 +1,9 @@
+package com.mphasis.abstraction;
+
+public class IBank {
+
+	
+	public void deposit();
+	public void withdraw();
+	
+}
